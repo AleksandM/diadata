@@ -2,186 +2,6 @@
   "Coins": [
     {
       "Exchange": "OKEx",
-      "ForeignName": "AAVE-USDT",
-      "Ignore": false,
-      "Symbol": "AAVE"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "BAL-USDT",
-      "Ignore": false,
-      "Symbol": "BAL"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "SPELL-USDT",
-      "Ignore": false,
-      "Symbol": "SPELL"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "JOE-USDT",
-      "Ignore": false,
-      "Symbol": "JOE"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "KNC-USDT",
-      "Ignore": false,
-      "Symbol": "KNC"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "KNC-USDC",
-      "Ignore": false,
-      "Symbol": "KNC"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "RAY-USDT",
-      "Ignore": false,
-      "Symbol": "RAY"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "SAMO-USDT",
-      "Ignore": false,
-      "Symbol": "SAMO"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "YFI-USDT",
-      "Ignore": false,
-      "Symbol": "YFI"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "YFI-USDC",
-      "Ignore": false,
-      "Symbol": "YFI"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "ACA-USDT",
-      "Ignore": false,
-      "Symbol": "ACA"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "ANT-USDT",
-      "Ignore": false,
-      "Symbol": "ANT"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "PHA-USDT",
-      "Ignore": false,
-      "Symbol": "PHA"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "SHIB-USDT",
-      "Ignore": false,
-      "Symbol": "SHIB"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "WBTC-USDT",
-      "Ignore": false,
-      "Symbol": "WBTC"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "WBTC-ETH",
-      "Ignore": false,
-      "Symbol": "WBTC"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "DIA-USDT",
-      "Ignore": false,
-      "Symbol": "DIA"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "METIS-USDT",
-      "Ignore": false,
-      "Symbol": "METIS"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "AXS-USDT",
-      "Ignore": false,
-      "Symbol": "AXS"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "BADGER-USDT",
-      "Ignore": false,
-      "Symbol": "BADGER"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "KSM-USDT",
-      "Ignore": false,
-      "Symbol": "KSM"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "GLM-USDT",
-      "Ignore": false,
-      "Symbol": "GLM"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "FTM-USDT",
-      "Ignore": false,
-      "Symbol": "FTM"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "KP3R-USDT",
-      "Ignore": false,
-      "Symbol": "KP3R"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "GHST-USDT",
-      "Ignore": false,
-      "Symbol": "GHST"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "FTM-USDT",
-      "Ignore": false,
-      "Symbol": "FTM"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "GRT-USDT",
-      "Ignore": false,
-      "Symbol": "GRT"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "PERP-USDT",
-      "Ignore": false,
-      "Symbol": "PERP"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "LUNA-USDT",
-      "Ignore": false,
-      "Symbol": "LUNA"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "NEAR-USDT",
-      "Ignore": false,
-      "Symbol": "NEAR"
-    },
-    {
-      "Exchange": "OKEx",
       "ForeignName": "1ST-USDT",
       "Ignore": false,
       "Symbol": "1ST"
@@ -203,6 +23,18 @@
       "ForeignName": "AAC-USDT",
       "Ignore": false,
       "Symbol": "AAC"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "AAVE-USDC",
+      "Ignore": false,
+      "Symbol": "AAVE"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "AAVE-USDT",
+      "Ignore": false,
+      "Symbol": "AAVE"
     },
     {
       "Exchange": "OKEx",
@@ -233,6 +65,12 @@
       "ForeignName": "ABT-USDT",
       "Ignore": false,
       "Symbol": "ABT"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "ACA-USDT",
+      "Ignore": false,
+      "Symbol": "ACA"
     },
     {
       "Exchange": "OKEx",
@@ -332,6 +170,24 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "ANT-USDT",
+      "Ignore": false,
+      "Symbol": "ANT"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "AR-USDT",
+      "Ignore": false,
+      "Symbol": "AR"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "ARB-USDT",
+      "Ignore": false,
+      "Symbol": "ARB"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "ARDR-BTC",
       "Ignore": false,
       "Symbol": "ARDR"
@@ -374,6 +230,18 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "ATOM-USDT",
+      "Ignore": false,
+      "Symbol": "ATOM"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "ATOM-USDC",
+      "Ignore": false,
+      "Symbol": "ATOM"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "AUTO-ETH",
       "Ignore": false,
       "Symbol": "AUTO"
@@ -383,6 +251,24 @@
       "ForeignName": "AVT-BTC",
       "Ignore": false,
       "Symbol": "AVT"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "AXS-USDT",
+      "Ignore": false,
+      "Symbol": "AXS"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "BADGER-USDT",
+      "Ignore": false,
+      "Symbol": "BADGER"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "BAL-USDT",
+      "Ignore": false,
+      "Symbol": "BAL"
     },
     {
       "Exchange": "OKEx",
@@ -455,6 +341,12 @@
       "ForeignName": "BNT-USDT",
       "Ignore": false,
       "Symbol": "BNT"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "BONK-USDT",
+      "Ignore": false,
+      "Symbol": "BONK"
     },
     {
       "Exchange": "OKEx",
@@ -563,6 +455,12 @@
       "ForeignName": "CIT-OKB",
       "Ignore": false,
       "Symbol": "CIT"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "COMP-USDT",
+      "Ignore": false,
+      "Symbol": "COMP"
     },
     {
       "Exchange": "OKEx",
@@ -710,6 +608,12 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "DEGEN-USDT",
+      "Ignore": false,
+      "Symbol": "DEGEN"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "DENT-BTC",
       "Ignore": false,
       "Symbol": "DENT"
@@ -761,6 +665,12 @@
       "ForeignName": "DGD-USDT",
       "Ignore": false,
       "Symbol": "DGD"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "DIA-USDT",
+      "Ignore": false,
+      "Symbol": "DIA"
     },
     {
       "Exchange": "OKEx",
@@ -968,6 +878,12 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "ETHFI-USDT",
+      "Ignore": false,
+      "Symbol": "ETHFI"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "EVX-ETH",
       "Ignore": false,
       "Symbol": "EVX"
@@ -983,6 +899,18 @@
       "ForeignName": "FLOW-USDT",
       "Ignore": false,
       "Symbol": "FLOW"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "FTM-USDT",
+      "Ignore": false,
+      "Symbol": "FTM"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "FTM-USDT",
+      "Ignore": false,
+      "Symbol": "FTM"
     },
     {
       "Exchange": "OKEx",
@@ -1022,9 +950,33 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "GHST-USDT",
+      "Ignore": false,
+      "Symbol": "GHST"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "GLM-USDT",
+      "Ignore": false,
+      "Symbol": "GLM"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "GMT-USDT",
       "Ignore": false,
       "Symbol": "GMT"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "GMX-USDT",
+      "Ignore": false,
+      "Symbol": "GMX"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "GMX-USDC",
+      "Ignore": false,
+      "Symbol": "GMX"
     },
     {
       "Exchange": "OKEx",
@@ -1061,6 +1013,12 @@
       "ForeignName": "GNX-USDT",
       "Ignore": false,
       "Symbol": "GNX"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "GRT-USDT",
+      "Ignore": false,
+      "Symbol": "GRT"
     },
     {
       "Exchange": "OKEx",
@@ -1202,6 +1160,18 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "IMX-USDT",
+      "Ignore": false,
+      "Symbol": "IMX"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "INJ-USDT",
+      "Ignore": false,
+      "Symbol": "INJ"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "INS-BTC",
       "Ignore": false,
       "Symbol": "INS"
@@ -1274,30 +1244,6 @@
     },
     {
       "Exchange": "OKEx",
-      "ForeignName": "IOTA-BTC",
-      "Ignore": false,
-      "Symbol": "MIOTA"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "IOTA-ETH",
-      "Ignore": false,
-      "Symbol": "MIOTA"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "IOTA-OKB",
-      "Ignore": false,
-      "Symbol": "MIOTA"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "IOTA-USDT",
-      "Ignore": false,
-      "Symbol": "MIOTA"
-    },
-    {
-      "Exchange": "OKEx",
       "ForeignName": "IPC-USDT",
       "Ignore": false,
       "Symbol": "IPC"
@@ -1319,6 +1265,12 @@
       "ForeignName": "ITC-USDT",
       "Ignore": false,
       "Symbol": "ITC"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "JOE-USDT",
+      "Ignore": false,
+      "Symbol": "JOE"
     },
     {
       "Exchange": "OKEx",
@@ -1361,6 +1313,36 @@
       "ForeignName": "KCASH-USDT",
       "Ignore": false,
       "Symbol": "KCASH"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "KDA-USDT",
+      "Ignore": false,
+      "Symbol": "KDA"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "KNC-USDT",
+      "Ignore": false,
+      "Symbol": "KNC"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "KNC-USDC",
+      "Ignore": false,
+      "Symbol": "KNC"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "KP3R-USDT",
+      "Ignore": false,
+      "Symbol": "KP3R"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "KSM-USDT",
+      "Ignore": false,
+      "Symbol": "KSM"
     },
     {
       "Exchange": "OKEx",
@@ -1556,6 +1538,12 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "LUNA-USDT",
+      "Ignore": false,
+      "Symbol": "LUNA"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "MANA-BTC",
       "Ignore": false,
       "Symbol": "MANA"
@@ -1571,6 +1559,12 @@
       "ForeignName": "MANA-USDT",
       "Ignore": false,
       "Symbol": "MANA"
+    },
+    {
+      "Exchange": "OKEx",
+      "Ignore": false,
+      "ForeignName": "MAVIA-USDT",
+      "Symbol": "MAVIA"
     },
     {
       "Exchange": "OKEx",
@@ -1625,6 +1619,36 @@
       "ForeignName": "MDT-USDT",
       "Ignore": false,
       "Symbol": "MDT"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "METIS-USDT",
+      "Ignore": false,
+      "Symbol": "METIS"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "IOTA-BTC",
+      "Ignore": false,
+      "Symbol": "MIOTA"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "IOTA-ETH",
+      "Ignore": false,
+      "Symbol": "MIOTA"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "IOTA-OKB",
+      "Ignore": false,
+      "Symbol": "MIOTA"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "IOTA-USDT",
+      "Ignore": false,
+      "Symbol": "MIOTA"
     },
     {
       "Exchange": "OKEx",
@@ -1772,6 +1796,12 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "NEAR-USDT",
+      "Ignore": false,
+      "Symbol": "NEAR"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "NEO-BTC",
       "Ignore": false,
       "Symbol": "NEO"
@@ -1904,6 +1934,18 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "OP-USDT",
+      "Ignore": false,
+      "Symbol": "OP"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "ORDI-USDT",
+      "Ignore": false,
+      "Symbol": "ORDI"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "OST-BTC",
       "Ignore": false,
       "Symbol": "OST"
@@ -1952,6 +1994,24 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "PEPE-USDT",
+      "Ignore": false,
+      "Symbol": "PEPE"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "PERP-USDT",
+      "Ignore": false,
+      "Symbol": "PERP"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "PHA-USDT",
+      "Ignore": false,
+      "Symbol": "PHA"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "POE-BTC",
       "Ignore": false,
       "Symbol": "POE"
@@ -1967,6 +2027,18 @@
       "ForeignName": "POE-USDT",
       "Ignore": false,
       "Symbol": "POE"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "POL-USDT",
+      "Ignore": false,
+      "Symbol": "POL"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "POL-USDC",
+      "Ignore": false,
+      "Symbol": "POL"
     },
     {
       "Exchange": "OKEx",
@@ -2084,6 +2156,12 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "RAY-USDT",
+      "Ignore": false,
+      "Symbol": "RAY"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "RCT-ETH",
       "Ignore": false,
       "Symbol": "RCT"
@@ -2198,9 +2276,21 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "SAMO-USDT",
+      "Ignore": false,
+      "Symbol": "SAMO"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "SAN-USDT",
       "Ignore": false,
       "Symbol": "SAN"
+    },
+    {
+      "Symbol": "SATS",
+      "ForeignName": "SATS-USDT",
+      "Exchange": "OKEx",
+      "Ignore": false
     },
     {
       "Exchange": "OKEx",
@@ -2243,6 +2333,12 @@
       "ForeignName": "SDA-OKB",
       "Ignore": false,
       "Symbol": "SDA"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "SHIB-USDT",
+      "Ignore": false,
+      "Symbol": "SHIB"
     },
     {
       "Exchange": "OKEx",
@@ -2342,6 +2438,12 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "SPELL-USDT",
+      "Ignore": false,
+      "Symbol": "SPELL"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "SPF-BTC",
       "Ignore": false,
       "Symbol": "SPF"
@@ -2384,6 +2486,12 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "STETH-USDT",
+      "Ignore": false,
+      "Symbol": "STETH"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "STORJ-BTC",
       "Ignore": false,
       "Symbol": "STORJ"
@@ -2402,6 +2510,24 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "STRK-USDT",
+      "Ignore": false,
+      "Symbol": "STRK"
+    },
+    {
+      "Exchange": "OKEx",
+      "Ignore": false,
+      "ForeignName": "STX-USDT",
+      "Symbol": "STX"
+    },
+    {
+      "Exchange": "OKEx",
+      "Ignore": false,
+      "ForeignName": "STX-USDC",
+      "Symbol": "STX"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "SUB-BTC",
       "Ignore": false,
       "Symbol": "SUB"
@@ -2411,6 +2537,12 @@
       "ForeignName": "SUB-ETH",
       "Ignore": false,
       "Symbol": "SUB"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "SUI-USDT",
+      "Ignore": false,
+      "Symbol": "SUI"
     },
     {
       "Exchange": "OKEx",
@@ -2468,6 +2600,12 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "TIA-USDT",
+      "Ignore": false,
+      "Symbol": "TIA"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "TNB-BTC",
       "Ignore": false,
       "Symbol": "TNB"
@@ -2483,6 +2621,12 @@
       "ForeignName": "TNB-USDT",
       "Ignore": false,
       "Symbol": "TNB"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "TON-USDT",
+      "Ignore": false,
+      "Symbol": "TON"
     },
     {
       "Exchange": "OKEx",
@@ -2525,24 +2669,6 @@
       "ForeignName": "TRIO-USDT",
       "Ignore": false,
       "Symbol": "TRIO"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "false-BTC",
-      "Ignore": false,
-      "Symbol": "false"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "false-ETH",
-      "Ignore": false,
-      "Symbol": "false"
-    },
-    {
-      "Exchange": "OKEx",
-      "ForeignName": "false-USDT",
-      "Ignore": false,
-      "Symbol": "false"
     },
     {
       "Exchange": "OKEx",
@@ -2624,6 +2750,12 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "UNI-USDT",
+      "Ignore": false,
+      "Symbol": "UNI"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "USDC-BTC",
       "Ignore": false,
       "Symbol": "USDC"
@@ -2651,6 +2783,18 @@
       "ForeignName": "VEE-ETH",
       "Ignore": false,
       "Symbol": "VEE"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "VELA-USDT",
+      "Ignore": false,
+      "Symbol": "VELA"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "VELODROME-USDT",
+      "Ignore": false,
+      "Symbol": "VELODROME"
     },
     {
       "Exchange": "OKEx",
@@ -2714,6 +2858,24 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "WBTC-USDT",
+      "Ignore": false,
+      "Symbol": "WBTC"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "WBTC-ETH",
+      "Ignore": false,
+      "Symbol": "WBTC"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "WIF-USDT",
+      "Ignore": false,
+      "Symbol": "WIF"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "WIN-BTC",
       "Ignore": false,
       "Symbol": "WIN"
@@ -2735,6 +2897,12 @@
       "ForeignName": "WIN-USDT",
       "Ignore": false,
       "Symbol": "WIN"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "WLD-USDT",
+      "Ignore": false,
+      "Symbol": "WLD"
     },
     {
       "Exchange": "OKEx",
@@ -2894,6 +3062,18 @@
     },
     {
       "Exchange": "OKEx",
+      "ForeignName": "YFI-USDT",
+      "Ignore": false,
+      "Symbol": "YFI"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "YFI-USDC",
+      "Ignore": false,
+      "Symbol": "YFI"
+    },
+    {
+      "Exchange": "OKEx",
       "ForeignName": "YGG-USDT",
       "Ignore": false,
       "Symbol": "YGG"
@@ -3035,6 +3215,12 @@
       "ForeignName": "ZIP-USDT",
       "Ignore": false,
       "Symbol": "ZIP"
+    },
+    {
+      "Exchange": "OKEx",
+      "ForeignName": "ZRO-USDT",
+      "Ignore": false,
+      "Symbol": "ZRO"
     },
     {
       "Exchange": "OKEx",
